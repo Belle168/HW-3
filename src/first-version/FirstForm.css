@@ -1,0 +1,31 @@
+.first_form{
+    background-color: rgb(202, 202, 233);
+    display: flex;
+    flex-direction: column;
+    width: 20rem;
+    margin:  7rem;
+    padding: 2rem;
+    border-radius: 1rem;
+
+}
+
+.first_form input{
+height: 20px;
+border-radius: 10px;
+background-color: pink;
+
+}
+
+.first_form label{
+    height: 30px;
+    color: rgb(78, 73, 73);
+}
+
+.first_button{
+     height: 28px;
+    border-radius: 10px;
+    width: 7rem;
+    margin-left: 6.5rem;
+    margin-top: 2rem;
+    
+}
