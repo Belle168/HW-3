@@ -1,4 +1,4 @@
-.second_form{
+.third_form{
     background-color: rgb(202, 202, 233);
     display: flex;
     flex-direction: column;
@@ -9,23 +9,23 @@
 
 }
 
-.second_form input{
+.third_form input{
 height: 20px;
 border-radius: 10px;
 background-color: pink;
 
 }
 
-.second_form label{
+.third_form label{
     height: 30px;
     color: rgb(78, 73, 73);
 }
 
-.second_button{
-    height: 28px;
+.third_button{
+     height: 28px;
     border-radius: 10px;
     width: 7rem;
     margin-left: 6.5rem;
     margin-top: 2rem;
+    
 }
-
